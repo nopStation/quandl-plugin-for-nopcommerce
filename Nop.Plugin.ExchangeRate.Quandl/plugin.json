@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Exchange rate providers",
+  "FriendlyName": "Quandl exchange rate provider",
+  "SystemName": "ExchangeRate.Quandl",
+  "Version": "1.21",
+  "SupportedVersions": [ "4.40" ],
+  "Author": "nopCommerce team, Nop-Station Team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.ExchangeRate.Quandl.dll",
+  "Description": "This plugin allows getting exchange rates (to USD from Federal Reserve Economic Data; to EUR from European Central Bank; to GBP from Bank of England) by using Quandl service"
+}
