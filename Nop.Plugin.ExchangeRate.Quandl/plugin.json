@@ -3,7 +3,7 @@
   "FriendlyName": "Quandl exchange rate provider",
   "SystemName": "ExchangeRate.Quandl",
   "Version": "1.21",
-  "SupportedVersions": [ "4.40" ],
+  "SupportedVersions": [ "4.50" ],
   "Author": "nopCommerce team, Nop-Station Team",
   "DisplayOrder": 1,
   "FileName": "Nop.Plugin.ExchangeRate.Quandl.dll",
